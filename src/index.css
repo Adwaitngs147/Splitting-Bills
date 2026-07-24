@@ -136,7 +136,7 @@ label {
 label::first-letter {
   display: inline-block;
   font-size: 1.8rem;
-  margin-right: 4px;
+  
 }
 
 input,
