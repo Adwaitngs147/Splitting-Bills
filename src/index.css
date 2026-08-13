@@ -169,3 +169,8 @@ form h2 {
   margin-bottom: 1.6rem;
   text-transform: uppercase;
 }
+
+.split-error {
+  font-size: 1.3rem;
+  grid-column: 1 / -1;
+}
